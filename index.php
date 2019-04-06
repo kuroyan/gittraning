@@ -10,5 +10,6 @@ original add word
 5 i want to see diff source contents.
 漢字も入れてみます
 これはsourceTreeで commit and push
+macで挿入しています。久々のmacだ！
 ?>
 
