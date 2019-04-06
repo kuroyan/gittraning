@@ -13,5 +13,6 @@ original add word
 macで挿入しています。久々のmacだ！
 再度、windows10からpush
 add branch other edit content
+viが入っている。sourceTreeは優れものだ。お勧めです！
 ?>
 
