@@ -11,5 +11,6 @@ original add word
 漢字も入れてみます
 これはsourceTreeで commit and push
 macで挿入しています。久々のmacだ！
+再度、windows10からpush
 ?>
 
