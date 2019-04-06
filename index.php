@@ -9,5 +9,6 @@ original add word
 4 add3 by myhome clone and push
 5 i want to see diff source contents.
 漢字も入れてみます
+これはsourceTreeで commit and push
 ?>
 
