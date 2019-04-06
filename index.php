@@ -12,5 +12,6 @@ original add word
 これはsourceTreeで commit and push
 macで挿入しています。久々のmacだ！
 再度、windows10からpush
+add branch other edit content
 ?>
 
