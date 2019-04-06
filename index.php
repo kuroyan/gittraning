@@ -8,5 +8,6 @@ original add word
 3 add3 by myhome clone
 4 add3 by myhome clone and push
 5 i want to see diff source contents.
+漢字も入れてみます
 ?>
 
