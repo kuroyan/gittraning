@@ -10,3 +10,4 @@ IoT（ESP32, raspberry PI)
 CENTOSサーバーを7に
 VS2019 for mac &  Windows10
 Azureで使用できるFreeの資源
+Microsoft ML.NET 1.0R で機械学習フレームワークを準備している
