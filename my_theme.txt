@@ -1,4 +1,5 @@
 コンテナ
+Docker & kubernetes
 Git,GitHub
 ローカルでのGit（共有サーバーで）
 SPA（Vue.js）
@@ -8,3 +9,4 @@ Python
 IoT（ESP32, raspberry PI)
 CENTOSサーバーを7に
 VS2019 for mac &  Windows10
+Azureで使用できるFreeの資源
