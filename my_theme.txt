@@ -1,0 +1,10 @@
+コンテナ
+Git,GitHub
+ローカルでのGit（共有サーバーで）
+SPA（Vue.js）
+OFF会参加でjob hunting
+フリーランスへの対応
+Python
+IoT（ESP32, raspberry PI)
+CENTOSサーバーを7に
+VS2019 for mac &  Windows10
